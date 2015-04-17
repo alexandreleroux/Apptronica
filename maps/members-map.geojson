@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Alexandre Leroux",
+        "Location": "Montreal",
+        "URL": "animoog.org/satri",
+        "Apps": "Animoog",
+        "Sub-genre": "Freetronica",
+        "Artist name": "Satri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58814239501953,
+          45.5077905484003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Clif Johnston",
+        "Location": "Monroe",
+        "URL": "apptronica.co.uk",
+        "Sub-genre": "Dark ambient",
+        "Artist name": "Mood481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.97158813476561,
+          47.85671180394348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Martin Neuhold",
+        "Location": "Großkarolinenfeld",
+        "URL": "",
+        "Sub-genre": "Downtempo and ambient",
+        "Artist name": "Martin Neuhold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.08444595336914,
+          47.89010398526447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Jesper Jones",
+        "Location": "Gothenburg",
+        "Sub-genre": "Back beat",
+        "Artist name": "Jesper Jones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.961708068847656,
+          57.70836597782495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Jon Rawlinson",
+        "Artist name": "PantsOfDeath",
+        "Location": "Sydney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20208740234375,
+          -33.86357381425348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Quincas Moreira",
+        "Location": "Mexico City",
+        "Artist name": "Quincas X",
+        "URL": "",
+        "Apps": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.151611328125,
+          19.435514339097825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Winnipeg",
+        "Member": "Steve Raizen",
+        "Artist name": "Frozen Lonesome",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.14351654052734,
+          49.89596137883285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Les Ulis",
+        "Member": "Michael Hodges",
+        "Artist name": "MiklH",
+        "Sub-genre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1697139739990234,
+          48.67979741543824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Singapore",
+        "Member": "Nick Lau",
+        "Artist name": "The Dead Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.84654998779297,
+          1.2887249407943617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Walsall",
+        "Member": "Gareth J Farmer",
+        "Artist name": "Carbonates On Mars"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9821739196777344,
+          52.58448608425548
+        ]
+      }
+    }
+  ]
+}
