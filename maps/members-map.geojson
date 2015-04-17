@@ -195,6 +195,24 @@
           47.251737410123965
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "San Francisco",
+        "Member": "Benjamin Jones",
+        "URL": "https://soundcloud.com/mcobigben",
+        "Apps": "",
+        "Sub-genre": "",
+        "Artist name": "Zen Bones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42443084716797,
+          37.7897092979573
+        ]
+      }
     }
   ]
 }
