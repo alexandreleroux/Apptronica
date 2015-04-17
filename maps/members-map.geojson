@@ -26,7 +26,8 @@
         "Location": "Monroe",
         "URL": "apptronica.co.uk",
         "Sub-genre": "Dark ambient",
-        "Artist name": "Mood481"
+        "Artist name": "Mood481",
+        "Apps": ""
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +44,8 @@
         "Location": "Großkarolinenfeld",
         "URL": "",
         "Sub-genre": "Downtempo and ambient",
-        "Artist name": "Martin Neuhold"
+        "Artist name": "Martin Neuhold",
+        "Apps": ""
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +61,9 @@
         "Member": "Jesper Jones",
         "Location": "Gothenburg",
         "Sub-genre": "Back beat",
-        "Artist name": "Jesper Jones"
+        "Artist name": "Jesper Jones",
+        "URL": "",
+        "Apps": ""
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +78,10 @@
       "properties": {
         "Member": "Jon Rawlinson",
         "Artist name": "PantsOfDeath",
-        "Location": "Sydney"
+        "Location": "Sydney",
+        "URL": "",
+        "Apps": "",
+        "Sub-genre": ""
       },
       "geometry": {
         "type": "Point",
@@ -91,7 +98,8 @@
         "Location": "Mexico City",
         "Artist name": "Quincas X",
         "URL": "",
-        "Apps": ""
+        "Apps": "",
+        "Sub-genre": ""
       },
       "geometry": {
         "type": "Point",
@@ -107,7 +115,9 @@
         "Location": "Winnipeg",
         "Member": "Steve Raizen",
         "Artist name": "Frozen Lonesome",
-        "URL": ""
+        "URL": "",
+        "Apps": "",
+        "Sub-genre": ""
       },
       "geometry": {
         "type": "Point",
@@ -122,8 +132,10 @@
       "properties": {
         "Location": "Les Ulis",
         "Member": "Michael Hodges",
-        "Artist name": "MiklH",
-        "Sub-genre": ""
+        "Artist name": "MyklH",
+        "Sub-genre": "",
+        "URL": "",
+        "Apps": ""
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +150,10 @@
       "properties": {
         "Location": "Singapore",
         "Member": "Nick Lau",
-        "Artist name": "The Dead Society"
+        "Artist name": "The Dead Society",
+        "URL": "",
+        "Apps": "",
+        "Sub-genre": ""
       },
       "geometry": {
         "type": "Point",
@@ -153,13 +168,31 @@
       "properties": {
         "Location": "Walsall",
         "Member": "Gareth J Farmer",
-        "Artist name": "Carbonates On Mars"
+        "Artist name": "Carbonates On Mars",
+        "URL": "",
+        "Apps": "",
+        "Sub-genre": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -1.9821739196777344,
           52.58448608425548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Tacoma",
+        "Member": "David Israel",
+        "Artist name": "SmiteMatter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44056701660155,
+          47.251737410123965
         ]
       }
     }
