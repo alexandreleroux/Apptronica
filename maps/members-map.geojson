@@ -213,6 +213,20 @@
           37.7897092979573
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Wetzlar",
+        "Artist name": "Globo Tom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.50393295288086,
+          50.55543404450377
+        ]
+      }
     }
   ]
 }
