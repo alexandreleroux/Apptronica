@@ -16,10 +16,10 @@ Map data, such as the location of Apptronica members, can be stored in a GeoJSON
 Improving the file that contains the map data:
 * Register and login to [GitHub](http://github.com)
 * Copy the [raw members_map.geojson](https://github.com/alexandreleroux/Apptronica/raw/master/maps/members-map.geojson) data to [geojson.io](http://geojson.io)
-* Edit the map content using the 'Table' view<br>
-** Add text and links<br>
-** Add new member locations
-* Go to the [members_map.geojson file](https://github.com/alexandreleroux/Apptronica/blob/master/maps/members-map.geojson) and click 'Edit this file', then copy your improved geojson from the '</> JSON' tab and copy this content to the the members-map.geojson
+* Click on 'Table' to edit the map content using the 'Table' view<br>
+** Add new members by searching for its location (the magnifying glass icon) and then clicking the pushpin to place the marker on the map<br>
+** Add corresponding text and links in the Table view
+* Go to the [members_map.geojson file](https://github.com/alexandreleroux/Apptronica/blob/master/maps/members-map.geojson) and click 'Edit this file' (the little pen icon), copy your improved geojson from the '</> JSON' tab on geojson.io and copy this content to members-map.geojson on GitHub
 * Indicate what you added or changed in the 'Commit changes' box and click the 'Commit changes' button
 
 Bravo, you're done! Once I'll accept your changes (aka 'pull request'), the map will be updated and all other users will see the improvements you've done.
