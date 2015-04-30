@@ -245,6 +245,23 @@
           53.54397962810946
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Narvik",
+        "Member": "Guy Beeri Mauseth",
+        "URL": "",
+        "Apps": "",
+        "Artist name": "Guy Beeri Mauseth?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.42259979248047,
+          68.44324732950012
+        ]
+      }
     }
   ]
 }
