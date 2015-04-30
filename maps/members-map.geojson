@@ -218,13 +218,31 @@
       "type": "Feature",
       "properties": {
         "Location": "Wetzlar",
-        "Artist name": "Globo Tom"
+        "Artist name": "Globo Tom",
+        "Member": "?"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           8.50393295288086,
           50.55543404450377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Edmonton",
+        "Member": "Max Well",
+        "URL": "",
+        "Artist name": "Max Well?",
+        "Apps": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50799560546875,
+          53.54397962810946
         ]
       }
     }
