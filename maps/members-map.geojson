@@ -262,6 +262,22 @@
           68.44324732950012
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Emily Needs",
+        "Location": "Nottingham",
+        "URL": "",
+        "Artist name": "Emily Needs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1473846435546875,
+          52.95939339754387
+        ]
+      }
     }
   ]
 }
