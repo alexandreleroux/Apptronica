@@ -278,6 +278,36 @@
           52.95939339754387
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Evangelos Koudonas",
+        "Location": "Larisa",
+        "Artist name": "Rude Duke?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.41631507873535,
+          39.637422462817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Boise",
+        "Member": "Shawn McClure",
+        "Artist name": "Rude Duke?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.224365234375,
+          43.61221676817573
+        ]
+      }
     }
   ]
 }
