@@ -325,6 +325,22 @@
           -37.80978395301097
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Mount Gambier",
+        "Member": "Brad Borejko Pine",
+        "Artist name": "Borejko",
+        "Sub-genre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.78310012817383,
+          -37.83005652796545
+        ]
+      }
     }
   ]
 }
