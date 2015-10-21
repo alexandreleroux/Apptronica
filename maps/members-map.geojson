@@ -218,7 +218,7 @@
       "type": "Feature",
       "properties": {
         "Location": "Wetzlar",
-        "Artist name": "Globo Tom",
+        "Artist name": "Globotom",
         "URL": "globotom.jimdo.com",
         "Member": "Thomas Albertsen"
       },
@@ -307,6 +307,22 @@
         "coordinates": [
           -116.224365234375,
           43.61221676817573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Tony Nekrews",
+        "Location": "Melbourne",
+        "URL": "",
+        "Artist name": "Thinds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9700927734375,
+          -37.80978395301097
         ]
       }
     }
