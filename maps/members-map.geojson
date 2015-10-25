@@ -341,6 +341,23 @@
           -37.83005652796545
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Crbnizd Dave",
+        "Location": "Brighton",
+        "URL": "https://soundcloud.com/crbnizd/infected",
+        "Apps": "",
+        "Artist name": "Crbnizd Dave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13973236083984372,
+          50.82285473543414
+        ]
+      }
     }
   ]
 }
