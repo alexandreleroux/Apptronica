@@ -199,24 +199,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "San Francisco",
-        "Member": "Benjamin Jones",
-        "URL": "https://soundcloud.com/mcobigben",
-        "Apps": "",
-        "Sub-genre": "",
-        "Artist name": "Zen Bones"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42443084716797,
-          37.7897092979573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Location": "Wetzlar",
         "Artist name": "Globotom",
         "URL": "globotom.jimdo.com",
@@ -373,6 +355,38 @@
         "coordinates": [
           -79.85000610351562,
           43.26120612479979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Benjamin Jones",
+        "Location": "Austin",
+        "URL": "https://soundcloud.com/mcobigben",
+        "Artist name": "Zen Bones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73643493652344,
+          30.26914928396419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Colin Powell",
+        "Location": "Salford",
+        "URL": "",
+        "Artist name": "Colin Powell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.291507720947265,
+          53.4865134550739
         ]
       }
     }
