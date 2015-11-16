@@ -358,6 +358,23 @@
           50.82285473543414
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Phil Minotti",
+        "Location": "Hamilton",
+        "URL": "http://therabbitholeexpress.bandcamp.com/",
+        "Apps": "",
+        "Artist name": "Rabbit Hole Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85000610351562,
+          43.26120612479979
+        ]
+      }
     }
   ]
 }
