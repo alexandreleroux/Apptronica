@@ -20,8 +20,14 @@ That's easy! Click on the geojson file and GitHub will display it interactively.
 * provide guidelines specific to the ios music world map
 * use icons appropriate for the new map
 
+# Providing feedback and more
 
-# Instructions for Contributing
+* You have great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Apptronica/issues)!
+* You play Animoog? Head here for the [Animoog players map](https://github.com/alexandreleroux/Animoog)!
+* And my shameless plug, I'm an Animoog soloist part of the Apptronica label, my [albums of improvized Animoog solos are available for free](http://animoog.org/satri), it got good reviews and even made it to the Moog Music frontpage
+
+
+# Instructions for Contributing to the Maps
 
 This map is for the <a href="http://animoog.org/map" target="_blank">Animoog Players Map on animoog.org/map</a>, everyone is welcomed to contribute to it
 
@@ -46,12 +52,10 @@ Adding yourself to the file that contains the map data:
 Bravo, you're done! Once I'll accept your changes, the map will be updated and all other players will see the improvements you've done.
 
 
-Warning
+Privacy warning
 -------
 
-PRIVACY warning: 
-* Please add only yourself and Moog-related stores 
-* Don't use the precise location of your home, you are responsible for the location accuracy and your associated privacy
+* Make certain you publish public coordinates to the map. If for instance you're adding your home on the map (e.g. as an App developer), don't use the precise location: you are responsible for the accuracy of the coordinates you publish and the associated privacy
 
 Symbols and colors
 -----
@@ -63,8 +67,3 @@ Symbols and colors
 * Orange (#FFA500) is the color for official Moog markers, such as headquarters and Moog staff
 * Moog dealers and stores will use the commercial icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/commercial-24.svg) in the light blue color (#66CCFF)
 
-# Providing feedback and more
-
-* You have great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Apptronica/issues)!
-* You play Animoog? Head here for the [Animoog players map](https://github.com/alexandreleroux/Animoog)!
-* And my shameless plug, I'm an Animoog soloist part of the Apptronica label, my [albums of improvized Animoog solos are available for free](http://animoog.org/satri), it got good reviews and even made it to the Moog Music frontpage
