@@ -1,6 +1,7 @@
 # The Apptronica Maps
 
 Welcome fellow iOS music enthusiast! In this section of the repository you'll find two interactive maps and their associated open data:
+
 1. The [iOS Music World Map](iOS-Music-World-Map.geojson), displaying the major stakeholders of the world of iOS music on an interactive map. It includes iOS app developers, iOS-compatible hardware manufacturers, and more (UPCOMING)
 2. The [Apptronica Members Map](members-map.geojson), showing iOS musicians publishing under [the Apptronica label](http://apptronica.co.uk), Apptronica members are welcomed to contribute to it
 
