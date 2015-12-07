@@ -1,35 +1,28 @@
 # The Apptronica Maps
 
-Welcome fellow iOS music enthusiast! In this repository you'll currently find two interactive maps and their open data:
-1. The [iOS Music World Map](iOS-Music-World-Map.geojson), displaying on an interactive map the major stakeholders of the world of iOS music, including iOS app developers, iOS-compatible hardware manufacturers, and more (UPCOMING)
-2. The [Apptronica Members map](members-map.geojson), showing iOS musicians publishing under the Apptronica label 
+Welcome fellow iOS music enthusiast! In this section of the repository you'll find two interactive maps and their associated open data:
+1. The [iOS Music World Map](iOS-Music-World-Map.geojson), displaying the major stakeholders of the world of iOS music on an interactive map. It includes iOS app developers, iOS-compatible hardware manufacturers, and more (UPCOMING)
+2. The [Apptronica Members Map](members-map.geojson), showing iOS musicians publishing under [the Apptronica label](http://apptronica.co.uk), Apptronica members are welcomed to contribute to it
 
 Everybody is welcomed to contribute! Here's the instructions and guidelines.
 
+# I want to see the maps!
+
+That's easy! Click on the geojson file and GitHub will display it interactively. Try it yourself:
+
+1. The [iOS Music World Map](iOS-Music-World-Map.geojson)
+2. The [Apptronica Members Map](members-map.geojson)
 
 # TODO
 
 * clean up instructions below
-* copy over images from animoog.org repos
 * provide guidelines specific to the ios music world map
-* add link to animoog.org/satri
+* use icons appropriate for the new map
 
-# CONTENT COPIED FROM ANIMOOG REPOS AND TO UPDATE
 
-The interactive map is here: <a href="https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson" target="_blank">github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson</a>
-
-Animoog Players Map - Instructions for Contributing
-============================================
+# Instructions for Contributing
 
 This map is for the <a href="http://animoog.org/map" target="_blank">Animoog Players Map on animoog.org/map</a>, everyone is welcomed to contribute to it
-
-
-Use cases
----------
-
-* Find Animoog players and fans near you and meet to share tips and tricks, and maybe even jam together?
-* Find Moog-related stores around you
-* Maps are fun!
 
 
 Adding yourself to the map
@@ -69,56 +62,8 @@ Symbols and colors
 * Orange (#FFA500) is the color for official Moog markers, such as headquarters and Moog staff
 * Moog dealers and stores will use the commercial icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/commercial-24.svg) in the light blue color (#66CCFF)
 
-Ideas?
------
+# Providing feedback and more
 
-If you great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Animoog/issues)!
-
-
-
-
-
-
-# OLD CONTENT TO DELETE OR MIGRATE:
-
-
-
-Apptronica Members Map
-============================================
-
-View the interactive map here: https://github.com/alexandreleroux/Apptronica/blob/master/maps/members-map.geojson
-
-This is a map of the <a href="http://apptronica.co.uk">Apptronica label members</a>, Apptronica members are welcomed to contribute to it.
-
-
-
-Improving the map
---------------------------
-
-Map data, such as the location of Apptronica members, can be stored in a GeoJSON file. This file format is [automatically displayed over a map by GitHub](https://help.github.com/articles/mapping-geojson-files-on-github).
-
-Improving the file that contains the map data:
-
-1. Register and login to [GitHub](http://github.com) - this step is necessary to avoid spam on the map
-2. In a second browser tab, open the [geojson.io](http://geojson.io) website
-3. Copy the [raw members_map.geojson](https://github.com/alexandreleroux/Apptronica/raw/master/maps/members-map.geojson) content to the geojson.io website in its '</> JSON' tab
-4. Click on the 'Table' tab to edit the map content using the 'Table' view:
-  1. Add new members by searching for its location (the magnifying glass icon) and then clicking the pushpin to place the marker on the map
-  2. Add corresponding text and links in the Table view
-5. Go to the [members_map.geojson file](https://github.com/alexandreleroux/Apptronica/blob/master/maps/members-map.geojson) page and click 'Edit this file' (the little pen icon), copy your improved geojson from the '</> JSON' tab on geojson.io and copy this content to members-map.geojson on GitHub
-6. Indicate what you added or changed in the 'Propose file change' box and click the 'Propose file change' button
-7. On the 'Comparing changes' page that loaded, click on 'Create pull request'
-
-Bravo, you're done! Once I'll accept your changes, the map will be updated and all other users will see the improvements you've done.
-
-
-Privacy warning
--------
-
-* Please only add the city where you live in, not the exact address - that's probably something you don't want to make accessible here to everyone in the Universe
-
-
-To do
------
-
-* Time is the only limit! If you have ideas, let's discuss... we can probably make this map a bit more useful :)
+* You have great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Apptronica/issues)!
+* You play Animoog? Head here for the [Animoog players map](https://github.com/alexandreleroux/Animoog)!
+* And my shameless plug, I'm an Animoog soloist part of the Apptronica label, my [albums of improvized Animoog solos are available for free](http://animoog.org/satri), it got good reviews and even made it to the Moog Music frontpage
