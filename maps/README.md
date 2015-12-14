@@ -23,17 +23,41 @@ That's easy! Click on the geojson file and GitHub will display it interactively.
 # Providing feedback and more
 
 * You have great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Apptronica/issues)!
-* You play Animoog? Head here for the [Animoog players map](https://github.com/alexandreleroux/Animoog)!
+* You play Animoog? Head [here for the Animoog players map](https://github.com/alexandreleroux/Animoog)!
 * And my shameless plug, I'm an Animoog soloist part of the Apptronica label, my [albums of improvized Animoog solos are available for free](http://animoog.org/satri), it got good reviews and even made it to the Moog Music frontpage
 
 
 # Instructions for Contributing to the Maps
 
-This map is for the <a href="http://animoog.org/map" target="_blank">Animoog Players Map on animoog.org/map</a>, everyone is welcomed to contribute to it
+Everyone is welcomed to contribute to the maps as long as you follow its spirit and the following rules
+
+## Guidelines for the iOS Music World Map
+
+In order to have consistent map, we need to agree on some rules as to what is displayed on the map to maintain it's usefulness. Anyone can [propose amendments to those guidelines](https://github.com/alexandreleroux/Apptronica/issues).
+
+Here's the categories and their associated symbols and colors:
+
+* iOS Music App Developers
+ * App developers use the mobile phone icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/mobilephone-24.svg) in the light blue color (#66CCFF)
+ * The developers must have published or updated an iOS music app in the past two years
+ * The pushpin is the location of their headquarters, or the office in charge of developing the iOS music app
+ * iOS music instruments as well as other apps that are obviously related to iOS music creation are allowed
+
+* iOS-compatible Music Hardware Manufacturers
+ * Hardware manufacturers use the industrial symbol ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/industrial-24.svg) in the orange color
+ * Location of their headquarters
+ * Must be currently manufacturing and shipping iOS music hardware
+ * Location of distributors is not allowed
+
+* iOS Music Artists
+ * iOS Music Artists use the music notes icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/music-24.svg) in the green color (#32CD32)
+ * Can be a registered music label as long as it is at least 80% devoted to pure iOS music
+ * Can be an recognized artist with at least a full album of pure iOS music. By 'recognized artist' we mean an artist able to live from his iOS music creation revenues. If you have a better rule to identify which iOS music artists should be on this map, [let's discuss](https://github.com/alexandreleroux/Apptronica/issues)!
+
+You have ideas pertaining to other categories that should be represented on the map? [Let us know](https://github.com/alexandreleroux/Apptronica/issues)! <a href="https://www.mapbox.com/maki/" target="_blank">Maki symbols</a> can be displayed directly on GitHub maps. 
 
 
-Adding yourself to the map
---------------------------
+## Adding a pushpin to the map
 
 Map data, such as the location of Animoog players and Moog dealers, can be stored in a GeoJSON file. This file format is <a href="https://help.github.com/articles/mapping-geojson-files-on-github" target="_blank">automatically displayed over a map by GitHub</a>.
 
@@ -52,18 +76,6 @@ Adding yourself to the file that contains the map data:
 Bravo, you're done! Once I'll accept your changes, the map will be updated and all other players will see the improvements you've done.
 
 
-Privacy warning
--------
+## Privacy warning
 
-* Make certain you publish public coordinates to the map. If for instance you're adding your home on the map (e.g. as an App developer), don't use the precise location: you are responsible for the accuracy of the coordinates you publish and the associated privacy
-
-Symbols and colors
------
-<a href="https://www.mapbox.com/maki/" target="_blank">Maki symbols</a> can be displayed directly on GitHub maps. Symbols and colors used on the map:
-
-* Animoog players use the music notes icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/music-24.svg) in the green color (#32CD32)
-* Animoog sound designers (presets and timbres) can use the chemist icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/chemist-24.svg) in the light purple color (#AD85FF), if you find another Maki icon is more suitable, let us know
-* Moog headquarters use the industrial symbol ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/industrial-24.svg) in the orange color
-* Orange (#FFA500) is the color for official Moog markers, such as headquarters and Moog staff
-* Moog dealers and stores will use the commercial icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/commercial-24.svg) in the light blue color (#66CCFF)
-
+* Make certain you publish public coordinates to the map. If for instance you're adding your home on the map (e.g. as an App developer), don't use the precise location such as putting the pushpin directly on your house, favor the neighborhood instead. In other words: you are responsible for the accuracy of the coordinates you publish and the associated privacy
