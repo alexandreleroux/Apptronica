@@ -14,12 +14,6 @@ That's easy! Click on the geojson file and GitHub will display it interactively.
 1. The [iOS Music World Map](iOS-Music-World-Map.geojson)
 2. The [Apptronica Members Map](members-map.geojson)
 
-# TODO
-
-* clean up instructions below
-* provide guidelines specific to the ios music world map
-* use icons appropriate for the new map
-
 # Providing feedback and more
 
 * You have great ideas to improve this map? [Let us know in the issues](https://github.com/alexandreleroux/Apptronica/issues)!
@@ -59,21 +53,21 @@ You have ideas pertaining to other categories that should be represented on the 
 
 ## Adding a pushpin to the map
 
-Map data, such as the location of Animoog players and Moog dealers, can be stored in a GeoJSON file. This file format is <a href="https://help.github.com/articles/mapping-geojson-files-on-github" target="_blank">automatically displayed over a map by GitHub</a>.
+Map data can be stored in a GeoJSON file and <a href="https://help.github.com/articles/mapping-geojson-files-on-github" target="_blank">automatically displayed over a map on GitHub</a>. Note that the screenshots below showcase the [Animoog Players Map](https://github.com/alexandreleroux/Animoog), but the steps to follow remain the same.
 
-Adding yourself to the file that contains the map data:
+Adding a pushpin to the file that contains the map data:
 
 1. Register and login to <a href="http://github.com" target="_blank">GitHub</a> - this step is necessary to avoid spam on the map
 2. In a second browser tab, open the <a href="http://geojson.io" target="_blank">geojson.io</a> website
-3. Copy the <a href="https://raw.githubusercontent.com/alexandreleroux/Animoog/master/map/animoog-map.geojson" target="_blank">raw animoog-map.geojson</a> content to the geojson.io website in its '</> JSON' tab<br>![image 1](images/raw-data-copy_to_geojsonio.jpg)
+3. Copy the <a href="https://raw.githubusercontent.com/alexandreleroux/Apptronica/master/maps/iOS-Music-World-Map.geojson" target="_blank">raw iOS-Music-World-Map.geojson</a> content to the geojson.io website in its '</> JSON' tab<br>![image 1](images/raw-data-copy_to_geojsonio.jpg)
 4. Click on the 'Table' tab to edit the map content using the 'Table' view:
-  1. Add new members by searching for its location (the magnifying glass icon) and then clicking the pushpin to place the marker on the map
+  1. Add new pushpins by searching for its location (the magnifying glass icon) and then clicking the pushpin to place the marker on the map
   2. Add corresponding text and links in the Table view<br>![image 2](images/add-content-to-map.jpg)
-5. Go to the <a href="https://github.com/alexandreleroux/Animoog/blob/master/map/animoog-map.geojson" target="_blank">animoog-map.geojson file</a> page and click 'Edit this file' (the little pen icon), copy your improved geojson from the '</> JSON' tab on geojson.io and copy this content to members-map.geojson on GitHub<br>![image 3](images/edit-original-content.jpg)
+5. Go to the <a href="https://github.com/alexandreleroux/Apptronica/master/maps/iOS-Music-World-Map.geojson" target="_blank">iOS-Music-World-Map.geojson file</a> page and click 'Edit this file' (the little pen icon), copy your improved geojson from the '</> JSON' tab on geojson.io and copy this content to iOS-Music-World-Map.geojson on GitHub<br>![image 3](images/edit-original-content.jpg)
 6. Indicate what you added or changed in the 'Propose file change' box and click the 'Propose file change' button<br>![image 4](images/propose-file-change.jpg)
 7. On the 'Comparing changes' page that loaded, click on 'Create pull request'<br>![image 5](images/create-pull-request.jpg)
 
-Bravo, you're done! Once I'll accept your changes, the map will be updated and all other players will see the improvements you've done.
+Bravo, you're done! Once I'll accept your changes (usually within a few days at most), the map will be updated and all other players will see the improvements you've done.
 
 
 ## Privacy warning
