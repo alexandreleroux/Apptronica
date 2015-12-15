@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "URL": "apptronica.co.uk",
-        "Type": "iOS label",
         "Name": "Apptronica",
+        "Type": "iOS label",
         "Description": "Music label 100% devoted to iOS music",
+        "URL": "apptronica.co.uk",
         "Product": "N/A",
         "marker-symbol": "music",
         "marker-color": "#32CD32"
@@ -23,10 +23,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "App developer",
         "Name": "Moog Music",
-        "URL": "www.moogmusic.com",
+        "Type": "App developer",
         "Description": "Moog Music Inc headquarters",
+        "URL": "www.moogmusic.com",
         "Product": "Animoog, Filtatron",
         "marker-symbol": "industrial",
         "marker-color": "#ffa500"
