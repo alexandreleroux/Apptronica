@@ -32,23 +32,23 @@ In order to have consistent map, we need to agree on some rules as to what is di
 Here's the categories and their associated symbols and colors:
 
 * iOS Music App Developers
- * App developers use the mobile phone icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/mobilephone-24.svg) in the light blue color (#66CCFF)
+ * App developers use the 'mobilephone' icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/mobilephone-24.svg) in the light blue color (#66CCFF)
  * The developers must have published or updated an iOS music app in the past two years
  * The pushpin is the location of their headquarters, or the office in charge of developing the iOS music app
- * iOS music instruments as well as other apps that are obviously related to iOS music creation are allowed
+ * iOS musical instruments as well as other apps that are obviously related to iOS music creation are allowed
 
-* iOS-compatible Music Hardware Manufacturers
- * Hardware manufacturers use the industrial symbol ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/industrial-24.svg) in the orange color
- * Location of their headquarters
- * Must be currently manufacturing and shipping iOS music hardware
+* iOS Music Hardware Manufacturers
+ * Hardware manufacturers use the 'industrial' symbol ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/industrial-24.svg) in the orange color
+ * Location of their headquarters or office in charge of the product
+ * Must be currently manufacturing and shipping iOS-compatible music hardware
  * Location of distributors is not allowed
 
 * iOS Music Artists
- * iOS Music Artists use the music notes icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/music-24.svg) in the green color (#32CD32)
+ * iOS Music Artists use the 'music' notes icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/music-24.svg) in the green color (#32CD32)
  * Can be a registered music label as long as it is at least 80% devoted to pure iOS music
  * Can be an recognized artist with at least a full album of pure iOS music. By 'recognized artist' we mean an artist able to live from his iOS music creation revenues. If you have a better rule to identify which iOS music artists should be on this map, [let's discuss](https://github.com/alexandreleroux/Apptronica/issues)!
 
-You have ideas pertaining to other categories that should be represented on the map? [Let us know](https://github.com/alexandreleroux/Apptronica/issues)! <a href="https://www.mapbox.com/maki/" target="_blank">Maki symbols</a> can be displayed directly on GitHub maps. 
+You have ideas pertaining to other categories that should be represented on the map? [Let us know](https://github.com/alexandreleroux/Apptronica/issues)! The map uses the <a href="https://www.mapbox.com/maki/" target="_blank">Maki symbols</a> which can be directly displayed on GitHub. 
 
 
 ## Adding a pushpin to the map
