@@ -38,6 +38,25 @@
           35.5942273151805
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kymatica",
+        "Type": "App developer",
+        "Description": "Jonatan Liljedahl",
+        "Product": "Sector, AudioShare, AUFX Series and many more",
+        "URL": "kymatica.com",
+        "marker-symbol": "mobilephone",
+        "marker-color": "#66CCFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.078346252441406,
+          59.32233087376979
+        ]
+      }
     }
   ]
 }
