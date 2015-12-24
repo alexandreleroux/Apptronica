@@ -389,6 +389,22 @@
           53.4865134550739
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Sarmad AB",
+        "Location": "London",
+        "URL": "",
+        "Artist name": "Sarmad AB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0913238525390625,
+          51.509383501611595
+        ]
+      }
     }
   ]
 }
