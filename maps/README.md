@@ -32,7 +32,7 @@ In order to have consistent map, we need to agree on some rules as to what is di
 Here's the categories and their associated symbols and colors:
 
 * iOS Music App Developers
- * App developers use the 'mobilephone' icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/mobilephone-24.svg) in the light blue color (#66CCFF)
+ * App developers use the 'mobilephone' icon ![example](https://cdn.rawgit.com/mapbox/maki/mb-pages/src/mobilephone-24.svg) in the dark blue color (#0000FF)
  * The developers must have published or updated an iOS music app in the past two years
  * The pushpin is the location of their headquarters, or the office in charge of developing the iOS music app
  * iOS musical instruments as well as other apps that are obviously related to iOS music creation are allowed
