@@ -48,7 +48,7 @@
         "Product": "Sector, AudioShare, AUFX Series and many more",
         "URL": "kymatica.com",
         "marker-symbol": "mobilephone",
-        "marker-color": "#66CCFF"
+        "marker-color": "#0000FF"
       },
       "geometry": {
         "type": "Point",
