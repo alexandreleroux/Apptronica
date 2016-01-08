@@ -405,6 +405,23 @@
           51.509383501611595
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Steve Libbey",
+        "Location": "Seattle",
+        "URL": "",
+        "Apps": "Caustic 3, Patterning, Auria, etc",
+        "Artist name": "Robotic Storm Cloud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32246398925781,
+          47.59690318115471
+        ]
+      }
     }
   ]
 }
