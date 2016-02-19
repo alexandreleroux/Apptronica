@@ -26,8 +26,7 @@
         "Location": "Monroe",
         "URL": "apptronica.co.uk",
         "Sub-genre": "Dark ambient",
-        "Artist name": "Mood481",
-        "Apps": ""
+        "Artist name": "Mood481"
       },
       "geometry": {
         "type": "Point",
@@ -42,10 +41,8 @@
       "properties": {
         "Member": "Martin Neuhold",
         "Location": "Großkarolinenfeld",
-        "URL": "",
         "Sub-genre": "Downtempo and ambient",
-        "Artist name": "Martin Neuhold",
-        "Apps": ""
+        "Artist name": "Martin Neuhold"
       },
       "geometry": {
         "type": "Point",
@@ -61,9 +58,7 @@
         "Member": "Jesper Jones",
         "Location": "Gothenburg",
         "Sub-genre": "Back beat",
-        "Artist name": "Jesper Jones",
-        "URL": "",
-        "Apps": ""
+        "Artist name": "Jesper Jones"
       },
       "geometry": {
         "type": "Point",
@@ -78,10 +73,7 @@
       "properties": {
         "Member": "Jon Rawlinson",
         "Artist name": "PantsOfDeath",
-        "Location": "Sydney",
-        "URL": "",
-        "Apps": "",
-        "Sub-genre": ""
+        "Location": "Sydney"
       },
       "geometry": {
         "type": "Point",
@@ -96,10 +88,7 @@
       "properties": {
         "Member": "Quincas Moreira",
         "Location": "Mexico City",
-        "Artist name": "Quincas X",
-        "URL": "",
-        "Apps": "",
-        "Sub-genre": ""
+        "Artist name": "Quincas X"
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +105,6 @@
         "Member": "Steve Raizen",
         "Artist name": "Frozen Lonesome",
         "URL": "http://frozen-lonesome.bandcamp.com",
-        "Apps": "",
         "Sub-genre": "Ambient String-Fuzz, Generally Pleasing Electronic Noise"
       },
       "geometry": {
@@ -132,10 +120,7 @@
       "properties": {
         "Location": "Les Ulis",
         "Member": "Michael Hodges",
-        "Artist name": "MyklH",
-        "Sub-genre": "",
-        "URL": "",
-        "Apps": ""
+        "Artist name": "MyklH"
       },
       "geometry": {
         "type": "Point",
@@ -150,10 +135,7 @@
       "properties": {
         "Location": "Singapore",
         "Member": "Nick Lau",
-        "Artist name": "The Dead Society",
-        "URL": "",
-        "Apps": "",
-        "Sub-genre": ""
+        "Artist name": "The Dead Society"
       },
       "geometry": {
         "type": "Point",
@@ -168,10 +150,7 @@
       "properties": {
         "Location": "Walsall",
         "Member": "Gareth J Farmer",
-        "Artist name": "Carbonates On Mars",
-        "URL": "",
-        "Apps": "",
-        "Sub-genre": ""
+        "Artist name": "Carbonates On Mars"
       },
       "geometry": {
         "type": "Point",
@@ -217,9 +196,7 @@
       "properties": {
         "Location": "Edmonton",
         "Member": "Max Well",
-        "URL": "",
-        "Artist name": "m4xw311",
-        "Apps": ""
+        "Artist name": "m4xw311"
       },
       "geometry": {
         "type": "Point",
@@ -234,8 +211,6 @@
       "properties": {
         "Location": "Narvik",
         "Member": "Guy Beeri Mauseth",
-        "URL": "",
-        "Apps": "",
         "Artist name": "Duke21"
       },
       "geometry": {
@@ -251,7 +226,6 @@
       "properties": {
         "Member": "Emily Needs",
         "Location": "Nottingham",
-        "URL": "",
         "Artist name": "Emily Needs"
       },
       "geometry": {
@@ -297,7 +271,6 @@
       "properties": {
         "Member": "Tony Nekrews",
         "Location": "Melbourne",
-        "URL": "",
         "Artist name": "Thinds"
       },
       "geometry": {
@@ -313,9 +286,8 @@
       "properties": {
         "Location": "Mount Gambier",
         "Member": "Brad Borejko Pine",
-        "Artist name": "Borejko",
-        "Sub-genre": ""
-      },
+        "Artist name": "Borejko"
+    },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -330,7 +302,6 @@
         "Member": "Crbnizd Dave",
         "Location": "Brighton",
         "URL": "https://soundcloud.com/crbnizd/infected",
-        "Apps": "",
         "Artist name": "Crbnizd Dave"
       },
       "geometry": {
@@ -347,7 +318,6 @@
         "Member": "Phil Minotti",
         "Location": "Hamilton",
         "URL": "http://therabbitholeexpress.bandcamp.com/",
-        "Apps": "",
         "Artist name": "Rabbit Hole Express"
       },
       "geometry": {
@@ -379,8 +349,7 @@
       "properties": {
         "Member": "Colin Powell",
         "Location": "Salford",
-        "URL": "",
-        "Artist name": "Colin Powell"
+        "Artist name": "A Multitude of One"
       },
       "geometry": {
         "type": "Point",
@@ -395,7 +364,6 @@
       "properties": {
         "Member": "Sarmad AB",
         "Location": "London",
-        "URL": "",
         "Artist name": "Sarmad AB"
       },
       "geometry": {
@@ -411,7 +379,6 @@
       "properties": {
         "Member": "Steve Libbey",
         "Location": "Seattle",
-        "URL": "",
         "Apps": "Caustic 3, Patterning, Auria, etc",
         "Artist name": "Robotic Storm Cloud"
       },
@@ -420,6 +387,21 @@
         "coordinates": [
           -122.32246398925781,
           47.59690318115471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Chris Ritchie",
+        "Location": "Walton-on-Thames",
+        "Artist name": "I have a box"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.42082786560058594,
+          51.38645922897783
         ]
       }
     }
