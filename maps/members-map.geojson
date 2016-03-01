@@ -287,7 +287,7 @@
         "Location": "Mount Gambier",
         "Member": "Brad Borejko Pine",
         "Artist name": "Borejko"
-    },
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -402,6 +402,20 @@
         "coordinates": [
           -0.42082786560058594,
           51.38645922897783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Member": "Brian Kupferschmid",
+        "Location": "Peoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.59007263183594,
+          40.69755930345006
         ]
       }
     }
